@@ -4,10 +4,4 @@ This app is developed using React and faceapi.js. The faceapi.js library is buil
 
 ## 
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/72202929/207964737-a7a251e8-95f8-48cd-baef-9a63de46ad63.png" height="280" />
-  
-  <img src="https://user-images.githubusercontent.com/72202929/207965635-d94369ca-b7c1-4a74-82a2-fbe4fbc77106.png" height="280" />
-</div>
-
 
